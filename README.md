@@ -2,11 +2,12 @@
 - **Wisdom Peak Analytics Assignment - Nxtwave**
 A React application that displays a list of users with search, sort, and pagination functionality. Built with React, Redux Toolkit, and Tailwind CSS.
 
-![Home Page Screenshot Light Mode](Screenshorts\Home-pc-light.png)
-![Home Page Screenshot Dark Mode](Screenshorts\Home-pc-dark.png)
-![User Details Screenshort](Screenshorts\User-pc.png)
-![Home Page Mobile](Screenshorts\Home-phone.png)
-![User Details Screenshort](Screenshorts\User-phone.png)
+![Home Page Screenshot Light Mode](Screenshorts/Home-pc-light.png)
+![Home Page Screenshot Dark Mode](Screenshorts/Home-pc-dark.png)
+![User Details Screenshot](Screenshorts/User-pc.png)
+![Home Page Mobile](Screenshorts/Home-phone.png)
+![User Details Screenshot Mobile](Screenshorts/User-phone.png)
+
 
 ## 🚀 Features
 
